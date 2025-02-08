@@ -1,6 +1,6 @@
 ## Hellow World 👋
 
-<h1 align="center">👋<br> I'm  <a href="https://www.linkedin.com/in/crisel-escalante-0b871b229/">Crisel Escalante</a></h1>
+<h1 align="center"><br> I'm  <a href="https://www.linkedin.com/in/crisel-escalante-0b871b229/">Crisel Escalante</a></h1>
   
 <div>
   <h2> About me  </h2>
