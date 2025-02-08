@@ -2,7 +2,6 @@
 
 <h1 align="center">👋<br> I'm  <a href="https://www.linkedin.com/in/crisel-escalante-0b871b229/">Crisel Escalante</a></h1>
   
-
 <div>
   <h2> About me  </h2>
   <img align="right" width=220px alt="coder" src="https://c.tenor.com/ARV_14hrkB4AAAAi/diegodrawsart-women-and-girls-in-science.gif"/>
