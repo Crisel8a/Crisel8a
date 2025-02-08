@@ -1,7 +1,4 @@
 ## Hellow World 👋
-![image](https://github.com/user-attachments/assets/18196770-f823-4cfc-a098-c066b12c37a5)
-
-
 
 <h1 align="center">👋<br> I'm  <a href="https://www.linkedin.com/in/crisel-escalante-0b871b229/">Crisel Escalante</a></h1>
 
